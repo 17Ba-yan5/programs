@@ -1,5 +1,3 @@
-Amani 
-
 
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
@@ -12,10 +10,6 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "program3", "..\..\source\repos\program3\program3.csproj", "{1D008BC9-A7C3-497E-A11B-963585539045}"
 EndProject
 Global
-
-
-amani
-
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
